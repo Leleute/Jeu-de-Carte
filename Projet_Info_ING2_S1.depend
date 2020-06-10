@@ -1,0 +1,4335 @@
+# depslib dependency file v1.0
+1510047884 source:c:\users\ghias\desktop\informatique\codeblocks\ing 2\projet_info_ing2_s1\fonctions.cpp
+
+1510048934 source:c:\users\ghias\desktop\informatique\codeblocks\ing 2\projet_info_ing2_s1\main.cpp
+	<iostream>
+	"fonctions.h"
+	"Personne.h"
+
+1510047911 c:\users\ghias\desktop\informatique\codeblocks\ing 2\projet_info_ing2_s1\fonctions.h
+
+1510051311 c:\users\ghias\desktop\informatique\codeblocks\ing 2\projet_info_ing2_s1\personne.h
+	<iostream>
+
+1510048947 source:c:\users\ghias\desktop\informatique\codeblocks\ing 2\projet_info_ing2_s1\personne.cpp
+	<iostream>
+	"Personne.h"
+
+1510049739 source:c:\users\ghias\desktop\informatique\codeblocks\ing 2\projet_info_ing2_s1\carte.cpp
+	<iostream>
+	"Carte.h"
+
+1510050686 c:\users\ghias\desktop\informatique\codeblocks\ing 2\projet_info_ing2_s1\carte.h
+	<iostream>
+
+1510050110 source:c:\users\ghias\desktop\informatique\codeblocks\ing 2\projet_info_ing2_s1\terrain.cpp
+	<iostream>
+	"Terrain.h"
+
+1510050685 c:\users\ghias\desktop\informatique\codeblocks\ing 2\projet_info_ing2_s1\terrain.h
+	<iostream>
+	"Carte.h"
+
+1510050448 source:c:\users\ghias\desktop\informatique\codeblocks\ing 2\projet_info_ing2_s1\creature.cpp
+	"Creature.h"
+
+1510050422 c:\users\ghias\desktop\informatique\codeblocks\ing 2\projet_info_ing2_s1\creature.h
+	<iostream>
+	"Carte.h"
+
+1510050685 source:c:\users\ghias\desktop\informatique\codeblocks\projet_info_ing2_s1\carte.cpp
+	<iostream>
+	"Carte.h"
+
+1510050686 c:\users\ghias\desktop\informatique\codeblocks\projet_info_ing2_s1\carte.h
+	<iostream>
+
+1510050684 source:c:\users\ghias\desktop\informatique\codeblocks\projet_info_ing2_s1\creature.cpp
+	"Creature.h"
+
+1510056063 c:\users\ghias\desktop\informatique\codeblocks\projet_info_ing2_s1\creature.h
+	<iostream>
+	"Carte.h"
+
+1510047884 source:c:\users\ghias\desktop\informatique\codeblocks\projet_info_ing2_s1\fonctions.cpp
+
+1510048934 source:c:\users\ghias\desktop\informatique\codeblocks\projet_info_ing2_s1\main.cpp
+	<iostream>
+	"fonctions.h"
+	"Personne.h"
+
+1510047911 c:\users\ghias\desktop\informatique\codeblocks\projet_info_ing2_s1\fonctions.h
+
+1510051311 c:\users\ghias\desktop\informatique\codeblocks\projet_info_ing2_s1\personne.h
+	<iostream>
+
+1510050687 source:c:\users\ghias\desktop\informatique\codeblocks\projet_info_ing2_s1\personne.cpp
+	<iostream>
+	"Personne.h"
+
+1510050629 source:c:\users\ghias\desktop\informatique\codeblocks\projet_info_ing2_s1\special.cpp
+	"Special.h"
+
+1510056063 c:\users\ghias\desktop\informatique\codeblocks\projet_info_ing2_s1\special.h
+	<iostream>
+	"Carte.h"
+
+1510050110 source:c:\users\ghias\desktop\informatique\codeblocks\projet_info_ing2_s1\terrain.cpp
+	<iostream>
+	"Terrain.h"
+
+1510056063 c:\users\ghias\desktop\informatique\codeblocks\projet_info_ing2_s1\terrain.h
+	<iostream>
+	"Carte.h"
+
+1511262732 source:c:\users\ghias\desktop\informatique\codeblocks\projet\projet_info_ing2_s1\carte.cpp
+	"Carte.h"
+
+1511262732 c:\users\ghias\desktop\informatique\codeblocks\projet\projet_info_ing2_s1\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1511262732 source:c:\users\ghias\desktop\informatique\codeblocks\projet\projet_info_ing2_s1\creature.cpp
+	"Creature.h"
+
+1511262732 c:\users\ghias\desktop\informatique\codeblocks\projet\projet_info_ing2_s1\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1510609766 source:c:\users\ghias\desktop\informatique\codeblocks\projet\projet_info_ing2_s1\fonctions.cpp
+	<iostream>
+
+1510680704 source:c:\users\ghias\desktop\informatique\codeblocks\projet\projet_info_ing2_s1\main.cpp
+	<iostream>
+	"Include.h"
+
+1510218857 c:\users\ghias\desktop\informatique\codeblocks\projet\projet_info_ing2_s1\fonctions.h
+
+1511264174 c:\users\ghias\desktop\informatique\codeblocks\projet\projet_info_ing2_s1\personne.h
+	<iostream>
+	"Collection.h"
+
+1510611472 source:c:\users\ghias\desktop\informatique\codeblocks\projet\projet_info_ing2_s1\personne.cpp
+	"Personne.h"
+
+1511262732 source:c:\users\ghias\desktop\informatique\codeblocks\projet\projet_info_ing2_s1\special.cpp
+	"Special.h"
+
+1511262732 c:\users\ghias\desktop\informatique\codeblocks\projet\projet_info_ing2_s1\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1511262732 source:c:\users\ghias\desktop\informatique\codeblocks\projet\projet_info_ing2_s1\terrain.cpp
+	"Terrain.h"
+
+1511262732 c:\users\ghias\desktop\informatique\codeblocks\projet\projet_info_ing2_s1\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1510221525 source:c:\users\ghias\desktop\informatique\codeblocks\projet\projet_info_ing2_s1\action.cpp
+	"Action.h"
+
+1510609766 c:\users\ghias\desktop\informatique\codeblocks\projet\projet_info_ing2_s1\action.h
+	<iostream>
+
+1510611472 source:c:\users\ghias\desktop\informatique\codeblocks\projet\projet_info_ing2_s1\attaque.cpp
+	"Attaque.h"
+
+1510611472 c:\users\ghias\desktop\informatique\codeblocks\projet\projet_info_ing2_s1\attaque.h
+	<iostream>
+	"Action.h"
+
+1510611472 source:c:\users\ghias\desktop\informatique\codeblocks\projet\projet_info_ing2_s1\defense.cpp
+	"Defense.h"
+
+1510609766 c:\users\ghias\desktop\informatique\codeblocks\projet\projet_info_ing2_s1\defense.h
+	<iostream>
+	"Action.h"
+
+1510150134 c:\users\ghias\desktop\informatique\codeblocks\projet\projet_info_ing2_s1\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+
+1511263913 source:c:\users\ghias\desktop\informatique\codeblocks\projet\projet_info_ing2_s1\collection.cpp
+	"Collection.h"
+
+1511263926 c:\users\ghias\desktop\informatique\codeblocks\projet\projet_info_ing2_s1\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1511264408 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\action.cpp
+	"Action.h"
+
+1511264408 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\action.h
+	<iostream>
+
+1511264408 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\attaque.cpp
+	"Attaque.h"
+
+1511264408 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\attaque.h
+	<iostream>
+	"Action.h"
+
+1511264408 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\carte.cpp
+	"Carte.h"
+
+1511264408 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1511264408 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\defense.h
+	<iostream>
+	"Action.h"
+
+1511345661 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Carte.h"
+
+1511345651 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1511264408 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\combat.cpp
+	"Combat.h"
+
+1511264408 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\combat.h
+	"Personne.h"
+
+1511337857 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\personne.h
+	<iostream>
+	"Collection.h"
+
+1511264408 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\creature.cpp
+	"Creature.h"
+
+1511264408 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1511264408 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\defense.cpp
+	"Defense.h"
+
+1511264408 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\fonctions.cpp
+	<iostream>
+
+1511344370 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\main.cpp
+	<iostream>
+	"Include.h"
+
+1511301387 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+
+1511296329 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\fonctions.h
+
+1511264408 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1511264408 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1511302158 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\special.cpp
+	"Special.h"
+
+1511302158 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\terrain.cpp
+	"Terrain.h"
+
+1511343754 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+
+1511337830 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1511301498 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1511617472 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\action.cpp
+	"Action.h"
+
+1511617472 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\action.h
+	<iostream>
+
+1511617472 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\attaque.cpp
+	"Attaque.h"
+
+1511617472 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\attaque.h
+	<iostream>
+	"Action.h"
+
+1511617472 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1511617472 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1511705493 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\personne.h
+	<iostream>
+	"Collection.h"
+	<queue>
+	<vector>
+
+1511704380 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1511617472 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1511617472 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\defense.h
+	<iostream>
+	"Action.h"
+
+1511617472 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1511617472 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1511617472 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1511617472 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\carte.cpp
+	"Carte.h"
+
+1511701037 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\combat.cpp
+	"Combat.h"
+
+1511705493 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\combat.h
+	"Personne.h"
+
+1511617472 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\creature.cpp
+	"Creature.h"
+
+1511617472 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\defense.cpp
+	"Defense.h"
+
+1511617472 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\fonctions.cpp
+	<iostream>
+
+1511705493 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\main.cpp
+	<iostream>
+	"Include.h"
+
+1511617472 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1511617472 c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\fonctions.h
+
+1511702462 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+	<algorithm>
+
+1511617472 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\special.cpp
+	"Special.h"
+
+1511617472 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\terrain.cpp
+	"Terrain.h"
+
+1511704398 source:c:\users\matth\documents\info tp 2017 - 2018\projet_info_ing2_s1 sans pointeur\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+	<algorithm>
+
+1511376402 source:c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\action.cpp
+	"Action.h"
+
+1511376402 c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\action.h
+	<iostream>
+
+1511376402 source:c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\attaque.cpp
+	"Attaque.h"
+
+1511376402 c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\attaque.h
+	<iostream>
+	"Action.h"
+
+1511376402 source:c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1511376402 c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1511377836 c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\personne.h
+	<iostream>
+	"Collection.h"
+
+1511376403 c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1511377125 c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1511376403 c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\defense.h
+	<iostream>
+	"Action.h"
+
+1511377836 c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1511376403 c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1511376403 c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1511377125 source:c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\carte.cpp
+	"Carte.h"
+
+1511376403 source:c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+
+1511376403 source:c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\combat.cpp
+	"Combat.h"
+
+1511377836 c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\combat.h
+	"Personne.h"
+
+1511376403 source:c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\creature.cpp
+	"Creature.h"
+
+1511376403 source:c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\defense.cpp
+	"Defense.h"
+
+1511376403 source:c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\fonctions.cpp
+	<iostream>
+
+1511376403 source:c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\main.cpp
+	<iostream>
+	"Include.h"
+
+1511377836 c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1511376403 c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\fonctions.h
+
+1511376403 source:c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+
+1511376403 source:c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\special.cpp
+	"Special.h"
+
+1511376403 source:c:\users\ghias\desktop\on-va-detruire-omar-et-quentin\projet_info_ing2_s1 sans pointeur\terrain.cpp
+	"Terrain.h"
+
+1511390467 source:c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\action.cpp
+	"Action.h"
+
+1511390467 c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\action.h
+	<iostream>
+
+1511390467 source:c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\attaque.cpp
+	"Attaque.h"
+
+1511390467 c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\attaque.h
+	<iostream>
+	"Action.h"
+
+1511390467 source:c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1511390467 c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1511390467 c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\personne.h
+	<iostream>
+	"Collection.h"
+
+1511390467 c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1511390467 c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1511390467 c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\defense.h
+	<iostream>
+	"Action.h"
+
+1511390467 c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1511390467 c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1511390467 c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1511390467 source:c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\carte.cpp
+	"Carte.h"
+
+1511390467 source:c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+
+1511390467 source:c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\combat.cpp
+	"Combat.h"
+
+1511390467 c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\combat.h
+	"Personne.h"
+
+1511390467 source:c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\creature.cpp
+	"Creature.h"
+
+1511390467 source:c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\defense.cpp
+	"Defense.h"
+
+1511390467 source:c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\fonctions.cpp
+	<iostream>
+
+1511390978 source:c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\main.cpp
+	<iostream>
+	"Include.h"
+
+1511390467 c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1511390467 c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\fonctions.h
+
+1511390467 source:c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\special.cpp
+	"Special.h"
+
+1511390467 source:c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\terrain.cpp
+	"Terrain.h"
+
+1511392073 source:c:\users\matth\documents\info tp 2017 - 2018\rip.omar\projet_info_ing2_s1 sans pointeur\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+
+1511801155 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\action.cpp
+	"Action.h"
+
+1511801155 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\action.h
+	<iostream>
+
+1511801819 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\attaque.cpp
+	"Attaque.h"
+
+1511801629 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\attaque.h
+	<iostream>
+	"Action.h"
+
+1511792597 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1511710923 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1511710924 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\personne.h
+	<iostream>
+	"Collection.h"
+	<vector>
+
+1511792597 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1511815557 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1511710923 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\defense.h
+	<iostream>
+	"Action.h"
+
+1511815557 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1511710924 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1511796896 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1511815557 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\carte.cpp
+	"Carte.h"
+
+1511792597 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+	<algorithm>
+
+1511815600 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\combat.cpp
+	"Combat.h"
+	<ctime>
+	<algorithm>
+	<cstdlib>
+
+1511795985 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\combat.h
+	"Personne.h"
+	<queue>
+
+1511815557 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\creature.cpp
+	"Creature.h"
+
+1511710923 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\defense.cpp
+	"Defense.h"
+
+1511771418 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\fonctions.cpp
+	<iostream>
+
+1511804241 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"Include.h"
+
+1511712963 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	"Combat.h"
+
+1511710923 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\fonctions.h
+
+1511792597 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+
+1511797097 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\special.cpp
+	"Special.h"
+
+1511710924 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\projet_info_ing2_s1 sans pointeur\terrain.cpp
+	"Terrain.h"
+
+1511801155 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\action.cpp
+	"Action.h"
+
+1511801155 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\action.h
+	<iostream>
+
+1511801819 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\attaque.cpp
+	"Attaque.h"
+
+1511801629 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\attaque.h
+	<iostream>
+	"Action.h"
+
+1511792597 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1511710923 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1511710924 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\personne.h
+	<iostream>
+	"Collection.h"
+	<vector>
+
+1511792597 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1511815557 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1511710923 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\defense.h
+	<iostream>
+	"Action.h"
+
+1511815557 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1511710924 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1511796896 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1511815557 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\carte.cpp
+	"Carte.h"
+
+1511792597 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+	<algorithm>
+
+1511815834 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\combat.cpp
+	"Combat.h"
+	<ctime>
+	<algorithm>
+	<cstdlib>
+
+1511795985 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\combat.h
+	"Personne.h"
+	<queue>
+
+1511815557 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\creature.cpp
+	"Creature.h"
+
+1511710923 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\defense.cpp
+	"Defense.h"
+
+1511771418 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\fonctions.cpp
+	<iostream>
+
+1511792597 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+
+1511797097 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\special.cpp
+	"Special.h"
+
+1511710924 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\terrain.cpp
+	"Terrain.h"
+
+1511816416 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\graphique.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+
+1511816619 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"allegro.h"
+	"Include.h"
+
+1511816416 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	"Graphique.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	"Combat.h"
+
+1511710923 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\fonctions.h
+
+1511816416 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est la sauvegarde sans allegro t'as vu\graphique.h
+	<iostream>
+
+1511801155 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\action.cpp
+	"Action.h"
+
+1511801155 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\action.h
+	<iostream>
+
+1511801819 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\attaque.cpp
+	"Attaque.h"
+
+1511801629 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\attaque.h
+	<iostream>
+	"Action.h"
+
+1511792597 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1511710923 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1511877482 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\personne.h
+	<iostream>
+	"Collection.h"
+	<vector>
+
+1511792597 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1511865880 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1511710923 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\defense.h
+	<iostream>
+	"Action.h"
+
+1511865622 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1511710924 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1511796896 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1511865880 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\carte.cpp
+	"Carte.h"
+
+1511881036 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1511903124 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\creature.cpp
+	"Creature.h"
+
+1511710923 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\defense.cpp
+	"Defense.h"
+
+1511771418 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\fonctions.cpp
+	<iostream>
+
+1511816416 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\graphique.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+
+1511906904 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"allegro.h"
+	"Include.h"
+
+1511816416 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	"Graphique.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	"Combat.h"
+
+1511710923 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\fonctions.h
+
+1511816416 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\graphique.h
+	<iostream>
+
+1511876737 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\combat.h
+	"Personne.h"
+	<queue>
+
+1511877482 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+
+1511797097 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\special.cpp
+	"Special.h"
+
+1511710924 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\terrain.cpp
+	"Terrain.h"
+
+1511905046 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\mon humour est trop puissant pour ces dossier\combat.cpp
+	"Combat.h"
+	<ctime>
+	<algorithm>
+	"Creature.h"
+	<cstdlib>
+
+1511960025 source:c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\action.cpp
+	"Action.h"
+
+1511989454 c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\action.h
+	<iostream>
+
+1511960025 source:c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\attaque.cpp
+	"Attaque.h"
+
+1511960025 c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\attaque.h
+	<iostream>
+	"Action.h"
+
+1511989454 source:c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1511971850 c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1511960026 c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\personne.h
+	<iostream>
+	"Collection.h"
+	<vector>
+
+1511989454 c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1511960025 c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1511960026 c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\defense.h
+	<iostream>
+	"Action.h"
+
+1511960025 c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1511960027 c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1511960027 c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1511989455 source:c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\carte.cpp
+	"Carte.h"
+
+1511960025 source:c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1511989454 source:c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\combat.cpp
+	"Combat.h"
+	<ctime>
+	<algorithm>
+	"Creature.h"
+	<cstdlib>
+
+1511960025 c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\combat.h
+	"Personne.h"
+	<queue>
+
+1511989454 source:c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\creature.cpp
+	"Creature.h"
+
+1511960026 source:c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\defense.cpp
+	"Defense.h"
+
+1511960026 source:c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\fonctions.cpp
+	<iostream>
+
+1512039439 source:c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\graphique.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Personne.h"
+
+1512040014 source:c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"allegro.h"
+	"Include.h"
+
+1511960026 c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	"Graphique.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	"Combat.h"
+
+1511960026 c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\fonctions.h
+
+1512039772 c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\graphique.h
+	<iostream>
+
+1511972001 source:c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+	<sstream>
+	<string>
+
+1511960027 source:c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\special.cpp
+	"Special.h"
+
+1511960027 source:c:\users\ghias\desktop\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\terrain.cpp
+	"Terrain.h"
+
+1512057022 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\action.cpp
+	"Action.h"
+
+1512057022 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\action.h
+	<iostream>
+
+1512057022 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\attaque.cpp
+	"Attaque.h"
+
+1512057022 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\attaque.h
+	<iostream>
+	"Action.h"
+
+1512057022 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1512057022 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1512057022 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\personne.h
+	<iostream>
+	"Collection.h"
+	<vector>
+
+1512064634 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1512057022 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512057022 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\defense.h
+	<iostream>
+	"Action.h"
+
+1512057022 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512057022 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512057022 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512057022 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\carte.cpp
+	"Carte.h"
+
+1512064634 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1512057022 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\combat.cpp
+	"Combat.h"
+	<ctime>
+	<algorithm>
+	"Creature.h"
+	<cstdlib>
+
+1512057022 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\combat.h
+	"Personne.h"
+	<queue>
+
+1512057022 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\creature.cpp
+	"Creature.h"
+
+1512057022 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\defense.cpp
+	"Defense.h"
+
+1512063847 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\fonctions.cpp
+	<iostream>
+	"fonctions.h"
+
+1512062113 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\graphique.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Personne.h"
+
+1512066137 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"allegro.h"
+	<cstdio>
+	"Include.h"
+
+1512057022 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	"Graphique.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	"Combat.h"
+
+1512063786 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\fonctions.h
+	<vector>
+	"Carte.h"
+
+1512062096 c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\graphique.h
+	<iostream>
+
+1512057022 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+	<sstream>
+	<string>
+
+1512057022 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\special.cpp
+	"Special.h"
+
+1512057022 source:c:\users\matth\documents\info tp 2017 - 2018\dsqdsqd\ceci est le fichier antoine\final_cette_fois_c'est_vrai\mon humour est trop puissant pour ces dossier\terrain.cpp
+	"Terrain.h"
+
+1512070244 source:c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\action.cpp
+	"Action.h"
+
+1512070244 c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\action.h
+	<iostream>
+
+1512070244 source:c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\attaque.cpp
+	"Attaque.h"
+
+1512070244 c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\attaque.h
+	<iostream>
+	"Action.h"
+
+1512070244 source:c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1512070244 c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1512070246 c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\personne.h
+	<iostream>
+	"Collection.h"
+	<vector>
+
+1512070245 c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1512070244 c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512070245 c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\defense.h
+	<iostream>
+	"Action.h"
+
+1512070245 c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512070246 c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512070246 c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512070244 source:c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\carte.cpp
+	"Carte.h"
+
+1512070245 source:c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1512070245 source:c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\combat.cpp
+	"Combat.h"
+	<ctime>
+	<algorithm>
+	"Creature.h"
+	<cstdlib>
+
+1512070245 c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\combat.h
+	"Personne.h"
+	<queue>
+
+1512070245 source:c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\creature.cpp
+	"Creature.h"
+
+1512070245 source:c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\defense.cpp
+	"Defense.h"
+
+1512070245 source:c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\fonctions.cpp
+	<iostream>
+	"fonctions.h"
+
+1512070245 c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\fonctions.h
+	<vector>
+	"Carte.h"
+
+1512071335 source:c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\graphique.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Personne.h"
+
+1512071119 source:c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"allegro.h"
+	<cstdio>
+	"Include.h"
+
+1512070245 c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	"Graphique.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	"Combat.h"
+
+1512070245 c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\graphique.h
+	<iostream>
+
+1512070245 source:c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+	<sstream>
+	<string>
+
+1512070246 source:c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\special.cpp
+	"Special.h"
+
+1512070246 source:c:\users\ghias\desktop\dernier_code_en_date\mdr je suis tellement perdu que je sais pas si c'est le bon\terrain.cpp
+	"Terrain.h"
+
+1512070244 source:c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\action.cpp
+	"Action.h"
+
+1512070244 c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\action.h
+	<iostream>
+
+1512070244 source:c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\attaque.cpp
+	"Attaque.h"
+
+1512070244 c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\attaque.h
+	<iostream>
+	"Action.h"
+
+1512070244 source:c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1512070244 c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1512114697 c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\personne.h
+	<iostream>
+	"Collection.h"
+	<vector>
+
+1512070245 c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1512070244 c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512070245 c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\defense.h
+	<iostream>
+	"Action.h"
+
+1512070245 c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512070246 c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512070246 c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512070244 source:c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\carte.cpp
+	"Carte.h"
+
+1512070245 source:c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1512070245 source:c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\combat.cpp
+	"Combat.h"
+	<ctime>
+	<algorithm>
+	"Creature.h"
+	<cstdlib>
+
+1512070245 c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\combat.h
+	"Personne.h"
+	<queue>
+
+1512070245 source:c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\creature.cpp
+	"Creature.h"
+
+1512070245 source:c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\defense.cpp
+	"Defense.h"
+
+1512070245 source:c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\fonctions.cpp
+	<iostream>
+	"fonctions.h"
+
+1512070245 c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\fonctions.h
+	<vector>
+	"Carte.h"
+
+1512113100 source:c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\graphique.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Personne.h"
+
+1512115350 source:c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"allegro.h"
+	<cstdio>
+	"Include.h"
+
+1512070245 c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	"Graphique.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	"Combat.h"
+
+1512070245 c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\graphique.h
+	<iostream>
+
+1512115217 source:c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+	<sstream>
+	<string>
+
+1512070246 source:c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\special.cpp
+	"Special.h"
+
+1512070246 source:c:\users\ghias\desktop\modifier_deck\mdr je suis tellement perdu que je sais pas si c'est le bon\terrain.cpp
+	"Terrain.h"
+
+1512070244 source:c:\users\ghias\desktop\a\action.cpp
+	"Action.h"
+
+1512070244 c:\users\ghias\desktop\a\action.h
+	<iostream>
+
+1512070244 source:c:\users\ghias\desktop\a\attaque.cpp
+	"Attaque.h"
+
+1512070244 c:\users\ghias\desktop\a\attaque.h
+	<iostream>
+	"Action.h"
+
+1512070244 source:c:\users\ghias\desktop\a\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1512070244 c:\users\ghias\desktop\a\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1512114697 c:\users\ghias\desktop\a\personne.h
+	<iostream>
+	"Collection.h"
+	<vector>
+
+1512070245 c:\users\ghias\desktop\a\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1512070244 c:\users\ghias\desktop\a\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512070245 c:\users\ghias\desktop\a\defense.h
+	<iostream>
+	"Action.h"
+
+1512070245 c:\users\ghias\desktop\a\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512070246 c:\users\ghias\desktop\a\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512070246 c:\users\ghias\desktop\a\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512070244 source:c:\users\ghias\desktop\a\carte.cpp
+	"Carte.h"
+
+1512070245 source:c:\users\ghias\desktop\a\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1512070245 source:c:\users\ghias\desktop\a\combat.cpp
+	"Combat.h"
+	<ctime>
+	<algorithm>
+	"Creature.h"
+	<cstdlib>
+
+1512070245 c:\users\ghias\desktop\a\combat.h
+	"Personne.h"
+	<queue>
+
+1512070245 source:c:\users\ghias\desktop\a\creature.cpp
+	"Creature.h"
+
+1512070245 source:c:\users\ghias\desktop\a\defense.cpp
+	"Defense.h"
+
+1512070245 source:c:\users\ghias\desktop\a\fonctions.cpp
+	<iostream>
+	"fonctions.h"
+
+1512070245 c:\users\ghias\desktop\a\fonctions.h
+	<vector>
+	"Carte.h"
+
+1512113100 source:c:\users\ghias\desktop\a\graphique.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Personne.h"
+
+1512118639 source:c:\users\ghias\desktop\a\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"allegro.h"
+	<cstdio>
+	"Include.h"
+
+1512070245 c:\users\ghias\desktop\a\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	"Graphique.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	"Combat.h"
+
+1512070245 c:\users\ghias\desktop\a\graphique.h
+	<iostream>
+
+1512115217 source:c:\users\ghias\desktop\a\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+	<sstream>
+	<string>
+
+1512070246 source:c:\users\ghias\desktop\a\special.cpp
+	"Special.h"
+
+1512070246 source:c:\users\ghias\desktop\a\terrain.cpp
+	"Terrain.h"
+
+1512120297 source:c:\users\ghias\desktop\a\graphiquecombat.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Combat.h"
+	"Personne.h"
+	"Graphique.h"
+
+1512070244 source:c:\users\ghias\desktop\projet_final\action.cpp
+	"Action.h"
+
+1512070244 c:\users\ghias\desktop\projet_final\action.h
+	<iostream>
+
+1512070244 source:c:\users\ghias\desktop\projet_final\attaque.cpp
+	"Attaque.h"
+
+1512070244 c:\users\ghias\desktop\projet_final\attaque.h
+	<iostream>
+	"Action.h"
+
+1512070244 source:c:\users\ghias\desktop\projet_final\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1512070244 c:\users\ghias\desktop\projet_final\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1512114697 c:\users\ghias\desktop\projet_final\personne.h
+	<iostream>
+	"Collection.h"
+	<vector>
+
+1512070245 c:\users\ghias\desktop\projet_final\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1512070244 c:\users\ghias\desktop\projet_final\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512070245 c:\users\ghias\desktop\projet_final\defense.h
+	<iostream>
+	"Action.h"
+
+1512070245 c:\users\ghias\desktop\projet_final\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512070246 c:\users\ghias\desktop\projet_final\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512070246 c:\users\ghias\desktop\projet_final\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512070244 source:c:\users\ghias\desktop\projet_final\carte.cpp
+	"Carte.h"
+
+1512070245 source:c:\users\ghias\desktop\projet_final\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1512122945 source:c:\users\ghias\desktop\projet_final\combat.cpp
+	"Combat.h"
+	<ctime>
+	<algorithm>
+	"Creature.h"
+	<cstdlib>
+
+1512070245 c:\users\ghias\desktop\projet_final\combat.h
+	"Personne.h"
+	<queue>
+
+1512070245 source:c:\users\ghias\desktop\projet_final\creature.cpp
+	"Creature.h"
+
+1512070245 source:c:\users\ghias\desktop\projet_final\defense.cpp
+	"Defense.h"
+
+1512070245 source:c:\users\ghias\desktop\projet_final\fonctions.cpp
+	<iostream>
+	"fonctions.h"
+
+1512070245 c:\users\ghias\desktop\projet_final\fonctions.h
+	<vector>
+	"Carte.h"
+
+1512121963 source:c:\users\ghias\desktop\projet_final\graphique.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Personne.h"
+
+1512120297 source:c:\users\ghias\desktop\projet_final\graphiquecombat.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Combat.h"
+	"Personne.h"
+	"Graphique.h"
+
+1512070245 c:\users\ghias\desktop\projet_final\graphique.h
+	<iostream>
+
+1512122747 source:c:\users\ghias\desktop\projet_final\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"allegro.h"
+	<cstdio>
+	"Include.h"
+
+1512120366 c:\users\ghias\desktop\projet_final\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	"Graphique.h"
+	"GraphiqueCombat.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	"Combat.h"
+
+1512120297 c:\users\ghias\desktop\projet_final\graphiquecombat.h
+	<iostream>
+
+1512115217 source:c:\users\ghias\desktop\projet_final\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+	<sstream>
+	<string>
+
+1512070246 source:c:\users\ghias\desktop\projet_final\special.cpp
+	"Special.h"
+
+1512070246 source:c:\users\ghias\desktop\projet_final\terrain.cpp
+	"Terrain.h"
+
+1512218516 source:c:\users\matth\documents\info tp 2017 - 2018\projet_final\action.cpp
+	"Action.h"
+
+1512218516 c:\users\matth\documents\info tp 2017 - 2018\projet_final\action.h
+	<iostream>
+
+1512218516 source:c:\users\matth\documents\info tp 2017 - 2018\projet_final\attaque.cpp
+	"Attaque.h"
+
+1512218516 c:\users\matth\documents\info tp 2017 - 2018\projet_final\attaque.h
+	<iostream>
+	"Action.h"
+
+1512218516 source:c:\users\matth\documents\info tp 2017 - 2018\projet_final\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1512218516 c:\users\matth\documents\info tp 2017 - 2018\projet_final\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1512218516 c:\users\matth\documents\info tp 2017 - 2018\projet_final\personne.h
+	<iostream>
+	"Collection.h"
+	<vector>
+
+1512218516 c:\users\matth\documents\info tp 2017 - 2018\projet_final\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1512218516 c:\users\matth\documents\info tp 2017 - 2018\projet_final\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512218516 c:\users\matth\documents\info tp 2017 - 2018\projet_final\defense.h
+	<iostream>
+	"Action.h"
+
+1512218516 c:\users\matth\documents\info tp 2017 - 2018\projet_final\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512218517 c:\users\matth\documents\info tp 2017 - 2018\projet_final\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512218517 c:\users\matth\documents\info tp 2017 - 2018\projet_final\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512218516 source:c:\users\matth\documents\info tp 2017 - 2018\projet_final\carte.cpp
+	"Carte.h"
+
+1512218516 source:c:\users\matth\documents\info tp 2017 - 2018\projet_final\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1512218516 source:c:\users\matth\documents\info tp 2017 - 2018\projet_final\combat.cpp
+	"Combat.h"
+	<ctime>
+	<algorithm>
+	"Creature.h"
+	<cstdlib>
+
+1512218516 c:\users\matth\documents\info tp 2017 - 2018\projet_final\combat.h
+	"Personne.h"
+	<queue>
+
+1512218516 source:c:\users\matth\documents\info tp 2017 - 2018\projet_final\creature.cpp
+	"Creature.h"
+
+1512218516 source:c:\users\matth\documents\info tp 2017 - 2018\projet_final\defense.cpp
+	"Defense.h"
+
+1512218516 source:c:\users\matth\documents\info tp 2017 - 2018\projet_final\fonctions.cpp
+	<iostream>
+	"fonctions.h"
+
+1512218516 c:\users\matth\documents\info tp 2017 - 2018\projet_final\fonctions.h
+	<vector>
+	"Carte.h"
+
+1512218516 source:c:\users\matth\documents\info tp 2017 - 2018\projet_final\graphique.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Personne.h"
+
+1512218516 source:c:\users\matth\documents\info tp 2017 - 2018\projet_final\graphiquecombat.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Combat.h"
+	"Personne.h"
+	"Graphique.h"
+
+1512218516 c:\users\matth\documents\info tp 2017 - 2018\projet_final\graphique.h
+	<iostream>
+
+1512221805 source:c:\users\matth\documents\info tp 2017 - 2018\projet_final\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+	<sstream>
+	<string>
+
+1512218517 source:c:\users\matth\documents\info tp 2017 - 2018\projet_final\special.cpp
+	"Special.h"
+
+1512218517 source:c:\users\matth\documents\info tp 2017 - 2018\projet_final\terrain.cpp
+	"Terrain.h"
+
+1512223654 source:c:\users\matth\documents\info tp 2017 - 2018\projet_final\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"allegro.h"
+	<cstdio>
+	"Include.h"
+
+1512218516 c:\users\matth\documents\info tp 2017 - 2018\projet_final\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	"Graphique.h"
+	"GraphiqueCombat.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	"Combat.h"
+
+1512218516 c:\users\matth\documents\info tp 2017 - 2018\projet_final\graphiquecombat.h
+	<iostream>
+
+1512225152 source:c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\action.cpp
+	"Action.h"
+
+1512225152 c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\action.h
+	<iostream>
+
+1512225152 source:c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\attaque.cpp
+	"Attaque.h"
+
+1512225152 c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\attaque.h
+	<iostream>
+	"Action.h"
+
+1512225152 source:c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1512225152 c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1512225153 c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\personne.h
+	<iostream>
+	"Collection.h"
+	<vector>
+
+1512225153 c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1512225152 c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512225153 c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\defense.h
+	<iostream>
+	"Action.h"
+
+1512225153 c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512225154 c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512225154 c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512225152 source:c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\carte.cpp
+	"Carte.h"
+
+1512225153 source:c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1512225153 source:c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\combat.cpp
+	"Combat.h"
+	<ctime>
+	<algorithm>
+	"Creature.h"
+	<cstdlib>
+
+1512225153 c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\combat.h
+	"Personne.h"
+	<queue>
+
+1512225153 source:c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\creature.cpp
+	"Creature.h"
+
+1512225153 source:c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\defense.cpp
+	"Defense.h"
+
+1512225153 source:c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\fonctions.cpp
+	<iostream>
+	"fonctions.h"
+
+1512225153 c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\fonctions.h
+	<vector>
+	"Carte.h"
+
+1512225153 source:c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\graphique.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Personne.h"
+
+1512225153 source:c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+	<sstream>
+	<string>
+
+1512225154 source:c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\special.cpp
+	"Special.h"
+
+1512225154 source:c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\terrain.cpp
+	"Terrain.h"
+
+1512225549 source:c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\graphiquecombat.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Combat.h"
+	"Personne.h"
+	"Graphique.h"
+
+1512225153 c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\graphique.h
+	<iostream>
+
+1512225549 source:c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"allegro.h"
+	<cstdio>
+	"Include.h"
+
+1512225153 c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	"Graphique.h"
+	"GraphiqueCombat.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	"Combat.h"
+
+1512225549 c:\users\ghias\desktop\projet-final-de-mes-grosses\projet final de mes grosses\graphiquecombat.h
+	<iostream>
+
+1512225715 source:c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\action.cpp
+	"Action.h"
+
+1512225715 c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\action.h
+	<iostream>
+
+1512225715 source:c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\attaque.cpp
+	"Attaque.h"
+
+1512225715 c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\attaque.h
+	<iostream>
+	"Action.h"
+
+1512225716 source:c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1512225716 c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1512225716 c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\personne.h
+	<iostream>
+	"Collection.h"
+	<vector>
+
+1512225716 c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1512225716 c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512225716 c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\defense.h
+	<iostream>
+	"Action.h"
+
+1512225716 c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512225716 c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512225716 c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512225716 source:c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\carte.cpp
+	"Carte.h"
+
+1512225716 source:c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1512225716 source:c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\combat.cpp
+	"Combat.h"
+	<ctime>
+	<algorithm>
+	"Creature.h"
+	<cstdlib>
+
+1512225716 c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\combat.h
+	"Personne.h"
+	<queue>
+
+1512225716 source:c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\creature.cpp
+	"Creature.h"
+
+1512225716 source:c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\defense.cpp
+	"Defense.h"
+
+1512225716 source:c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\fonctions.cpp
+	<iostream>
+	"fonctions.h"
+
+1512225716 c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\fonctions.h
+	<vector>
+	"Carte.h"
+
+1512225716 source:c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\graphique.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Personne.h"
+
+1512225716 source:c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\graphiquecombat.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Combat.h"
+	"Personne.h"
+	"Graphique.h"
+
+1512225716 c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\graphique.h
+	<iostream>
+
+1512225716 source:c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+	<sstream>
+	<string>
+
+1512225716 source:c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\special.cpp
+	"Special.h"
+
+1512225716 source:c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\terrain.cpp
+	"Terrain.h"
+
+1512227392 source:c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"allegro.h"
+	<cstdio>
+	"Include.h"
+
+1512225716 c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	"Graphique.h"
+	"GraphiqueCombat.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	"Combat.h"
+
+1512225716 c:\users\matth\documents\info tp 2017 - 2018\jpp\projet final de mes grosses\graphiquecombat.h
+	<iostream>
+
+1512225716 source:c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\action.cpp
+	"Action.h"
+
+1512225716 c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\action.h
+	<iostream>
+
+1512225716 source:c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\attaque.cpp
+	"Attaque.h"
+
+1512225716 c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\attaque.h
+	<iostream>
+	"Action.h"
+
+1512225718 source:c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1512225718 c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1512238851 c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\personne.h
+	<iostream>
+	"Collection.h"
+	<vector>
+
+1512225718 c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1512238851 c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512225718 c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\defense.h
+	<iostream>
+	"Action.h"
+
+1512238851 c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512225718 c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512238851 c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512238851 source:c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\carte.cpp
+	"Carte.h"
+
+1512225718 source:c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1512239815 source:c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\combat.cpp
+	"Combat.h"
+	<ctime>
+	<algorithm>
+	"Creature.h"
+	<cstdlib>
+
+1512225718 c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\combat.h
+	"Personne.h"
+	<queue>
+
+1512238851 source:c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\creature.cpp
+	"Creature.h"
+
+1512225718 source:c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\defense.cpp
+	"Defense.h"
+
+1512225718 source:c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\fonctions.cpp
+	<iostream>
+	"fonctions.h"
+
+1512225718 c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\fonctions.h
+	<vector>
+	"Carte.h"
+
+1512225718 source:c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\graphique.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Personne.h"
+
+1512225718 source:c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\graphiquecombat.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Combat.h"
+	"Personne.h"
+	"Graphique.h"
+
+1512225718 c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\graphique.h
+	<iostream>
+
+1512239774 source:c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"allegro.h"
+	<cstdio>
+	"Include.h"
+
+1512225718 c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	"Graphique.h"
+	"GraphiqueCombat.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	"Combat.h"
+
+1512225718 c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\graphiquecombat.h
+	<iostream>
+
+1512238851 source:c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+	<sstream>
+	<string>
+
+1512238943 source:c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\special.cpp
+	"Special.h"
+
+1512225718 source:c:\users\matth\documents\info tp 2017 - 2018\je veux pas taffer le console\terrain.cpp
+	"Terrain.h"
+
+1512225716 source:c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\action.cpp
+	"Action.h"
+
+1512225716 c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\action.h
+	<iostream>
+
+1512225716 source:c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\attaque.cpp
+	"Attaque.h"
+
+1512225716 c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\attaque.h
+	<iostream>
+	"Action.h"
+
+1512225718 source:c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1512225718 c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1512255082 c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\personne.h
+	<iostream>
+	"Collection.h"
+	<vector>
+
+1512225718 c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1512238852 c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512225718 c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\defense.h
+	<iostream>
+	"Action.h"
+
+1512255082 c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512225718 c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512238852 c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512255082 source:c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\carte.cpp
+	"Carte.h"
+
+1512225718 source:c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1512294037 source:c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\combat.cpp
+	"Combat.h"
+	<ctime>
+	<algorithm>
+	"Creature.h"
+	<cstdlib>
+
+1512225718 c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\combat.h
+	"Personne.h"
+	<queue>
+
+1512255082 source:c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\creature.cpp
+	"Creature.h"
+
+1512225718 source:c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\defense.cpp
+	"Defense.h"
+
+1512225718 source:c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\fonctions.cpp
+	<iostream>
+	"fonctions.h"
+
+1512225718 c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\fonctions.h
+	<vector>
+	"Carte.h"
+
+1512225718 source:c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\graphique.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Personne.h"
+
+1512295597 source:c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\graphiquecombat.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Combat.h"
+	"Personne.h"
+	"Graphique.h"
+
+1512225718 c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\graphique.h
+	<iostream>
+
+1512292817 source:c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"allegro.h"
+	<cstdio>
+	"Include.h"
+
+1512225718 c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	"Graphique.h"
+	"GraphiqueCombat.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	"Combat.h"
+
+1512257378 c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\graphiquecombat.h
+	<iostream>
+
+1512255082 source:c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+	<sstream>
+	<string>
+
+1512238944 source:c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\special.cpp
+	"Special.h"
+
+1512225718 source:c:\users\ghias\desktop\projet_projet_projet\ta mere allegro\terrain.cpp
+	"Terrain.h"
+
+1512297344 source:c:\users\matth\desktop\projet_projet_projet\ta mere allegro\action.cpp
+	"Action.h"
+
+1512297344 c:\users\matth\desktop\projet_projet_projet\ta mere allegro\action.h
+	<iostream>
+
+1512297344 source:c:\users\matth\desktop\projet_projet_projet\ta mere allegro\attaque.cpp
+	"Attaque.h"
+
+1512297344 c:\users\matth\desktop\projet_projet_projet\ta mere allegro\attaque.h
+	<iostream>
+	"Action.h"
+
+1512297344 source:c:\users\matth\desktop\projet_projet_projet\ta mere allegro\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1512297344 c:\users\matth\desktop\projet_projet_projet\ta mere allegro\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1512297344 c:\users\matth\desktop\projet_projet_projet\ta mere allegro\personne.h
+	<iostream>
+	"Collection.h"
+	<vector>
+
+1512297344 c:\users\matth\desktop\projet_projet_projet\ta mere allegro\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1512297344 c:\users\matth\desktop\projet_projet_projet\ta mere allegro\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512297344 c:\users\matth\desktop\projet_projet_projet\ta mere allegro\defense.h
+	<iostream>
+	"Action.h"
+
+1512297344 c:\users\matth\desktop\projet_projet_projet\ta mere allegro\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512297345 c:\users\matth\desktop\projet_projet_projet\ta mere allegro\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512297345 c:\users\matth\desktop\projet_projet_projet\ta mere allegro\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512297344 source:c:\users\matth\desktop\projet_projet_projet\ta mere allegro\carte.cpp
+	"Carte.h"
+
+1512297344 source:c:\users\matth\desktop\projet_projet_projet\ta mere allegro\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1512297641 source:c:\users\matth\desktop\projet_projet_projet\ta mere allegro\combat.cpp
+
+1512297641 c:\users\matth\desktop\projet_projet_projet\ta mere allegro\combat.h
+
+1512297344 source:c:\users\matth\desktop\projet_projet_projet\ta mere allegro\creature.cpp
+	"Creature.h"
+
+1512297344 source:c:\users\matth\desktop\projet_projet_projet\ta mere allegro\defense.cpp
+	"Defense.h"
+
+1512297344 source:c:\users\matth\desktop\projet_projet_projet\ta mere allegro\fonctions.cpp
+	<iostream>
+	"fonctions.h"
+
+1512297344 c:\users\matth\desktop\projet_projet_projet\ta mere allegro\fonctions.h
+	<vector>
+	"Carte.h"
+
+1512297344 source:c:\users\matth\desktop\projet_projet_projet\ta mere allegro\graphique.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Personne.h"
+
+1512297344 source:c:\users\matth\desktop\projet_projet_projet\ta mere allegro\graphiquecombat.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Combat.h"
+	"Personne.h"
+	"Graphique.h"
+
+1512297344 c:\users\matth\desktop\projet_projet_projet\ta mere allegro\graphique.h
+	<iostream>
+
+1512297344 source:c:\users\matth\desktop\projet_projet_projet\ta mere allegro\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"allegro.h"
+	<cstdio>
+	"Include.h"
+
+1512297641 c:\users\matth\desktop\projet_projet_projet\ta mere allegro\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	"Graphique.h"
+	"GraphiqueCombat.h"
+	"GraphiqueClassCombat.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1512297344 c:\users\matth\desktop\projet_projet_projet\ta mere allegro\graphiquecombat.h
+	<iostream>
+
+1512297344 source:c:\users\matth\desktop\projet_projet_projet\ta mere allegro\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+	<sstream>
+	<string>
+
+1512297345 source:c:\users\matth\desktop\projet_projet_projet\ta mere allegro\special.cpp
+	"Special.h"
+
+1512297345 source:c:\users\matth\desktop\projet_projet_projet\ta mere allegro\terrain.cpp
+	"Terrain.h"
+
+1512297526 source:c:\users\matth\desktop\projet_projet_projet\ta mere allegro\graphiqueclasscombat.cpp
+	"allegro.h"
+	"GraphiqueClassCombat.h"
+
+1512297641 c:\users\matth\desktop\projet_projet_projet\ta mere allegro\graphiqueclasscombat.h
+	"Personne.h"
+	<queue>
+
+1512297346 source:c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\action.cpp
+	"Action.h"
+
+1512297346 c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\action.h
+	<iostream>
+
+1512297346 source:c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\attaque.cpp
+	"Attaque.h"
+
+1512297346 c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\attaque.h
+	<iostream>
+	"Action.h"
+
+1512297346 source:c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1512297346 c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1512297346 c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\personne.h
+	<iostream>
+	"Collection.h"
+	<vector>
+
+1512297346 c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1512297346 c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512297346 c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\defense.h
+	<iostream>
+	"Action.h"
+
+1512297346 c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512297346 c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512297346 c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512297346 source:c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\carte.cpp
+	"Carte.h"
+
+1512297346 source:c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1512297642 source:c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\combat.cpp
+
+1512297346 source:c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\creature.cpp
+	"Creature.h"
+
+1512297346 source:c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\defense.cpp
+	"Defense.h"
+
+1512297346 source:c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\fonctions.cpp
+	<iostream>
+	"fonctions.h"
+
+1512297346 c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\fonctions.h
+	<vector>
+	"Carte.h"
+
+1512297346 source:c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\graphique.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Personne.h"
+
+1512297346 source:c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\graphiquecombat.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Combat.h"
+	"Personne.h"
+	"Graphique.h"
+
+1512297642 c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\combat.h
+
+1512297346 c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\graphique.h
+	<iostream>
+
+1512310441 source:c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"allegro.h"
+	<cstdio>
+	"Include.h"
+
+1512297642 c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	"Graphique.h"
+	"GraphiqueCombat.h"
+	"GraphiqueClassCombat.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1512297346 c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\graphiquecombat.h
+	<iostream>
+
+1512310238 c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\graphiqueclasscombat.h
+	"Personne.h"
+	<queue>
+
+1512297346 source:c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+	<sstream>
+	<string>
+
+1512297346 source:c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\special.cpp
+	"Special.h"
+
+1512297346 source:c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\terrain.cpp
+	"Terrain.h"
+
+1512312094 source:c:\users\matth\desktop\salut  a  toi\projet_projet_projet\ta mere allegro\graphiqueclasscombat.cpp
+	"allegro.h"
+	"GraphiqueClassCombat.h"
+	"Combat.h"
+	<ctime>
+	<algorithm>
+	"Creature.h"
+	<cstdlib>
+
+1512312695 source:c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\action.cpp
+	"Action.h"
+
+1512312695 c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\action.h
+	<iostream>
+
+1512312695 source:c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\attaque.cpp
+	"Attaque.h"
+
+1512312695 c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\attaque.h
+	<iostream>
+	"Action.h"
+
+1512312695 source:c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1512312695 c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1512312696 c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\personne.h
+	<iostream>
+	"Collection.h"
+	<vector>
+
+1512312695 c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1512312695 c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512312696 c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\defense.h
+	<iostream>
+	"Action.h"
+
+1512312696 c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512312697 c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512312697 c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512312695 source:c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\carte.cpp
+	"Carte.h"
+
+1512312695 source:c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1512312696 source:c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\combat.cpp
+
+1512312696 source:c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\creature.cpp
+	"Creature.h"
+
+1512312696 source:c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\defense.cpp
+	"Defense.h"
+
+1512312696 source:c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\fonctions.cpp
+	<iostream>
+	"fonctions.h"
+
+1512312696 c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\fonctions.h
+	<vector>
+	"Carte.h"
+
+1512312696 source:c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\graphique.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Personne.h"
+
+1512312696 source:c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\graphiqueclasscombat.cpp
+	"allegro.h"
+	"GraphiqueClassCombat.h"
+	"Combat.h"
+	<ctime>
+	<algorithm>
+	"Creature.h"
+	<cstdlib>
+
+1512312696 c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\graphiqueclasscombat.h
+	"Personne.h"
+	<queue>
+
+1512312696 c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\combat.h
+
+1512312696 source:c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\graphiquecombat.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Combat.h"
+	"Personne.h"
+	"Graphique.h"
+
+1512312696 c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\graphique.h
+	<iostream>
+
+1512312696 source:c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"allegro.h"
+	<cstdio>
+	"Include.h"
+
+1512312696 c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	"Graphique.h"
+	"GraphiqueCombat.h"
+	"GraphiqueClassCombat.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1512312696 c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\graphiquecombat.h
+	<iostream>
+
+1512312696 source:c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+	<sstream>
+	<string>
+
+1512312697 source:c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\special.cpp
+	"Special.h"
+
+1512312697 source:c:\users\ghias\desktop\mouallezzzz-les-whiles\mouallezzzz les whiles\terrain.cpp
+	"Terrain.h"
+
+1512312695 source:c:\users\ghias\desktop\rendu\mouallezzzz les whiles\action.cpp
+	"Action.h"
+
+1512312695 c:\users\ghias\desktop\rendu\mouallezzzz les whiles\action.h
+	<iostream>
+
+1512312695 source:c:\users\ghias\desktop\rendu\mouallezzzz les whiles\attaque.cpp
+	"Attaque.h"
+
+1512312695 c:\users\ghias\desktop\rendu\mouallezzzz les whiles\attaque.h
+	<iostream>
+	"Action.h"
+
+1512312695 source:c:\users\ghias\desktop\rendu\mouallezzzz les whiles\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1512312695 c:\users\ghias\desktop\rendu\mouallezzzz les whiles\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1512312696 c:\users\ghias\desktop\rendu\mouallezzzz les whiles\personne.h
+	<iostream>
+	"Collection.h"
+	<vector>
+
+1512312695 c:\users\ghias\desktop\rendu\mouallezzzz les whiles\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1512312695 c:\users\ghias\desktop\rendu\mouallezzzz les whiles\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512312696 c:\users\ghias\desktop\rendu\mouallezzzz les whiles\defense.h
+	<iostream>
+	"Action.h"
+
+1512312696 c:\users\ghias\desktop\rendu\mouallezzzz les whiles\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512312697 c:\users\ghias\desktop\rendu\mouallezzzz les whiles\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512312697 c:\users\ghias\desktop\rendu\mouallezzzz les whiles\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512312695 source:c:\users\ghias\desktop\rendu\mouallezzzz les whiles\carte.cpp
+	"Carte.h"
+
+1512318175 source:c:\users\ghias\desktop\rendu\mouallezzzz les whiles\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1512312696 source:c:\users\ghias\desktop\rendu\mouallezzzz les whiles\combat.cpp
+
+1512312696 source:c:\users\ghias\desktop\rendu\mouallezzzz les whiles\creature.cpp
+	"Creature.h"
+
+1512312696 source:c:\users\ghias\desktop\rendu\mouallezzzz les whiles\defense.cpp
+	"Defense.h"
+
+1512312696 source:c:\users\ghias\desktop\rendu\mouallezzzz les whiles\fonctions.cpp
+	<iostream>
+	"fonctions.h"
+
+1512312696 c:\users\ghias\desktop\rendu\mouallezzzz les whiles\fonctions.h
+	<vector>
+	"Carte.h"
+
+1512312696 source:c:\users\ghias\desktop\rendu\mouallezzzz les whiles\graphique.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Personne.h"
+
+1512319669 source:c:\users\ghias\desktop\rendu\mouallezzzz les whiles\graphiqueclasscombat.cpp
+	"allegro.h"
+	"GraphiqueClassCombat.h"
+	"Combat.h"
+	<ctime>
+	<algorithm>
+	"Creature.h"
+	"Graphique.h"
+	<cstdlib>
+
+1512319669 c:\users\ghias\desktop\rendu\mouallezzzz les whiles\graphiqueclasscombat.h
+	"Personne.h"
+	<queue>
+
+1512312696 c:\users\ghias\desktop\rendu\mouallezzzz les whiles\combat.h
+
+1512313993 source:c:\users\ghias\desktop\rendu\mouallezzzz les whiles\graphiquecombat.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Combat.h"
+	"Personne.h"
+	"Graphique.h"
+
+1512312696 c:\users\ghias\desktop\rendu\mouallezzzz les whiles\graphique.h
+	<iostream>
+
+1512312696 source:c:\users\ghias\desktop\rendu\mouallezzzz les whiles\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+	<sstream>
+	<string>
+
+1512312697 source:c:\users\ghias\desktop\rendu\mouallezzzz les whiles\special.cpp
+	"Special.h"
+
+1512312697 source:c:\users\ghias\desktop\rendu\mouallezzzz les whiles\terrain.cpp
+	"Terrain.h"
+
+1512320137 source:c:\users\ghias\desktop\rendu\mouallezzzz les whiles\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"allegro.h"
+	<cstdio>
+	"Include.h"
+
+1512312696 c:\users\ghias\desktop\rendu\mouallezzzz les whiles\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	"Graphique.h"
+	"GraphiqueCombat.h"
+	"GraphiqueClassCombat.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1512312696 c:\users\ghias\desktop\rendu\mouallezzzz les whiles\graphiquecombat.h
+	<iostream>
+
+1512322195 source:c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\action.cpp
+	"Action.h"
+
+1512322195 c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\action.h
+	<iostream>
+
+1512322195 source:c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\attaque.cpp
+	"Attaque.h"
+
+1512322195 c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\attaque.h
+	<iostream>
+	"Action.h"
+
+1512322195 source:c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1512322195 c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1512322195 c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\personne.h
+	<iostream>
+	"Collection.h"
+	<vector>
+
+1512322195 c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1512322195 c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512322195 c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\defense.h
+	<iostream>
+	"Action.h"
+
+1512322195 c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512322195 c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512322195 c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512322195 source:c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\carte.cpp
+	"Carte.h"
+
+1512322195 source:c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1512322195 source:c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\combat.cpp
+
+1512322195 source:c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\creature.cpp
+	"Creature.h"
+
+1512322195 source:c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\defense.cpp
+	"Defense.h"
+
+1512322195 source:c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\fonctions.cpp
+	<iostream>
+	"fonctions.h"
+
+1512322195 c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\fonctions.h
+	<vector>
+	"Carte.h"
+
+1512322195 source:c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\graphique.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Personne.h"
+
+1512322195 source:c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\graphiquecombat.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Combat.h"
+	"Personne.h"
+	"Graphique.h"
+
+1512322195 c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\combat.h
+
+1512322195 c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\graphique.h
+	<iostream>
+
+1512327146 source:c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"allegro.h"
+	<cstdio>
+	"Include.h"
+
+1512322195 c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	"Graphique.h"
+	"GraphiqueCombat.h"
+	"GraphiqueClassCombat.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1512322195 c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\graphiquecombat.h
+	<iostream>
+
+1512325041 c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\graphiqueclasscombat.h
+	"Personne.h"
+	<queue>
+
+1512322195 source:c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+	<sstream>
+	<string>
+
+1512322195 source:c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\special.cpp
+	"Special.h"
+
+1512322195 source:c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\terrain.cpp
+	"Terrain.h"
+
+1512327170 source:c:\users\matth\downloads\dd\rendu_ou_pas\rendu_ou_pas\mouallezzzz les whiles\graphiqueclasscombat.cpp
+	"allegro.h"
+	"GraphiqueClassCombat.h"
+	"Combat.h"
+	<ctime>
+	<algorithm>
+	"Creature.h"
+	"Graphique.h"
+	<cstdlib>
+
+1512327616 source:c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\action.cpp
+	"Action.h"
+
+1512327616 c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\action.h
+	<iostream>
+
+1512327616 source:c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\attaque.cpp
+	"Attaque.h"
+
+1512327616 c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\attaque.h
+	<iostream>
+	"Action.h"
+
+1512327616 source:c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1512327616 c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1512327617 c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\personne.h
+	<iostream>
+	"Collection.h"
+	<vector>
+
+1512327616 c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1512327616 c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512327617 c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\defense.h
+	<iostream>
+	"Action.h"
+
+1512327617 c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512327618 c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512327618 c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512327616 source:c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\carte.cpp
+	"Carte.h"
+
+1512327616 source:c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1512327616 source:c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\combat.cpp
+
+1512327616 source:c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\creature.cpp
+	"Creature.h"
+
+1512327617 source:c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\defense.cpp
+	"Defense.h"
+
+1512327617 source:c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\fonctions.cpp
+	<iostream>
+	"fonctions.h"
+
+1512327617 c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\fonctions.h
+	<vector>
+	"Carte.h"
+
+1512327617 source:c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\graphique.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Personne.h"
+
+1512328026 source:c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\graphiqueclasscombat.cpp
+	"allegro.h"
+	"GraphiqueClassCombat.h"
+	"Combat.h"
+	<ctime>
+	<algorithm>
+	"Creature.h"
+	"Graphique.h"
+	<cstdlib>
+
+1512327617 c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\graphiqueclasscombat.h
+	"Personne.h"
+	<queue>
+
+1512327616 c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\combat.h
+
+1512327617 c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\graphique.h
+	<iostream>
+
+1512329038 source:c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\graphiquecombat.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Combat.h"
+	"Personne.h"
+	"Graphique.h"
+
+1512329890 source:c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"allegro.h"
+	<cstdio>
+	"Include.h"
+
+1512327617 c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	"Graphique.h"
+	"GraphiqueCombat.h"
+	"GraphiqueClassCombat.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1512329038 c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\graphiquecombat.h
+	<iostream>
+
+1512327617 source:c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+	<sstream>
+	<string>
+
+1512327618 source:c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\special.cpp
+	"Special.h"
+
+1512327618 source:c:\users\ghias\desktop\ceci-est-un-projet-qui-va-etre-dur-a-rendre-dans-les-temps\ceci est un projet qui va etre dur a rendre dans les temps\terrain.cpp
+	"Terrain.h"
+
+1512327616 source:c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\action.cpp
+	"Action.h"
+
+1512327616 c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\action.h
+	<iostream>
+
+1512327616 source:c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\attaque.cpp
+	"Attaque.h"
+
+1512327616 c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\attaque.h
+	<iostream>
+	"Action.h"
+
+1512327616 source:c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1512327616 c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1512327617 c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\personne.h
+	<iostream>
+	"Collection.h"
+	<vector>
+
+1512327616 c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1512327616 c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512327617 c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\defense.h
+	<iostream>
+	"Action.h"
+
+1512327617 c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512327618 c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512327618 c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512327616 source:c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\carte.cpp
+	"Carte.h"
+
+1512327616 source:c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1512327616 source:c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\combat.cpp
+
+1512327616 source:c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\creature.cpp
+	"Creature.h"
+
+1512327617 source:c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\defense.cpp
+	"Defense.h"
+
+1512327617 source:c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\fonctions.cpp
+	<iostream>
+	"fonctions.h"
+
+1512327617 c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\fonctions.h
+	<vector>
+	"Carte.h"
+
+1512327617 source:c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\graphique.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Personne.h"
+
+1512328026 source:c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\graphiqueclasscombat.cpp
+	"allegro.h"
+	"GraphiqueClassCombat.h"
+	"Combat.h"
+	<ctime>
+	<algorithm>
+	"Creature.h"
+	"Graphique.h"
+	<cstdlib>
+
+1512327617 c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\graphiqueclasscombat.h
+	"Personne.h"
+	<queue>
+
+1512327616 c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\combat.h
+
+1512327617 c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\graphique.h
+	<iostream>
+
+1512331450 source:c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\graphiquecombat.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Combat.h"
+	"Personne.h"
+	"Graphique.h"
+	"Carte.h"
+
+1512327617 source:c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+	<sstream>
+	<string>
+
+1512327618 source:c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\special.cpp
+	"Special.h"
+
+1512327618 source:c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\terrain.cpp
+	"Terrain.h"
+
+1512331573 source:c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"allegro.h"
+	<cstdio>
+	"Include.h"
+
+1512327617 c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	"Graphique.h"
+	"GraphiqueCombat.h"
+	"GraphiqueClassCombat.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1512331450 c:\users\ghias\desktop\presque_final\ceci est un projet qui va etre dur a rendre dans les temps\graphiquecombat.h
+	<iostream>
+
+1512327616 source:c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\action.cpp
+	"Action.h"
+
+1512327616 c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\action.h
+	<iostream>
+
+1512333115 source:c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\attaque.cpp
+	"Attaque.h"
+
+1512327616 c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\attaque.h
+	<iostream>
+	"Action.h"
+
+1512327616 source:c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1512327616 c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1512327617 c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\personne.h
+	<iostream>
+	"Collection.h"
+	<vector>
+
+1512327616 c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1512327616 c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512327617 c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\defense.h
+	<iostream>
+	"Action.h"
+
+1512327617 c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512327618 c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512327618 c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512327616 source:c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\carte.cpp
+	"Carte.h"
+
+1512327616 source:c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1512327616 source:c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\combat.cpp
+
+1512327616 source:c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\creature.cpp
+	"Creature.h"
+
+1512327617 source:c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\defense.cpp
+	"Defense.h"
+
+1512327617 source:c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\fonctions.cpp
+	<iostream>
+	"fonctions.h"
+
+1512327617 c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\fonctions.h
+	<vector>
+	"Carte.h"
+
+1512333647 source:c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\graphique.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Personne.h"
+
+1512335573 source:c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\graphiqueclasscombat.cpp
+	"allegro.h"
+	"GraphiqueClassCombat.h"
+	"Combat.h"
+	<ctime>
+	<algorithm>
+	"Creature.h"
+	"Graphique.h"
+	<cstdlib>
+
+1512327617 c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\graphiqueclasscombat.h
+	"Personne.h"
+	<queue>
+
+1512327616 c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\combat.h
+
+1512327617 c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\graphique.h
+	<iostream>
+
+1512336244 source:c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\graphiquecombat.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Combat.h"
+	"Personne.h"
+	"Graphique.h"
+	"Carte.h"
+
+1512335836 source:c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"allegro.h"
+	<cstdio>
+	"Include.h"
+
+1512327617 c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	"Graphique.h"
+	"GraphiqueCombat.h"
+	"GraphiqueClassCombat.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1512331450 c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\graphiquecombat.h
+	<iostream>
+
+1512327617 source:c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+	<sstream>
+	<string>
+
+1512333115 source:c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\terrain.cpp
+	"Terrain.h"
+
+1512335428 source:c:\users\ghias\desktop\version_allegro_betoulle.ghiassi.leleu\version_allegro_betoulle.ghiassi.leleu\special.cpp
+	"Special.h"
+
+1512336621 source:c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\action.cpp
+	"Action.h"
+
+1512336621 c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\action.h
+	<iostream>
+
+1512336621 source:c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\attaque.cpp
+	"Attaque.h"
+
+1512336621 c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\attaque.h
+	<iostream>
+	"Action.h"
+
+1512336621 source:c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\boutique.cpp
+	"Boutique.h"
+	"Creature.h"
+	"Terrain.h"
+	"Special.h"
+	"Carte.h"
+	<vector>
+
+1512336621 c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\boutique.h
+	<iostream>
+	"Personne.h"
+	"Carte.h"
+	<vector>
+
+1512336621 c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\personne.h
+	<iostream>
+	"Collection.h"
+	<vector>
+
+1512336621 c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\collection.h
+	<vector>
+	<iostream>
+	"Carte.h"
+
+1512336621 c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\carte.h
+	<iostream>
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512336621 c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\defense.h
+	<iostream>
+	"Action.h"
+
+1512336621 c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\creature.h
+	<iostream>
+	"Carte.h"
+	"Action.h"
+	"Attaque.h"
+	"Defense.h"
+
+1512336621 c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\terrain.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512336621 c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\special.h
+	<iostream>
+	"Carte.h"
+	"Creature.h"
+
+1512336621 source:c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\carte.cpp
+	"Carte.h"
+
+1512336621 source:c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\collection.cpp
+	"Collection.h"
+	"Creature.h"
+	"Special.h"
+	"Terrain.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1512336621 source:c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\combat.cpp
+
+1512336621 source:c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\defense.cpp
+	"Defense.h"
+
+1512336621 source:c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\fonctions.cpp
+	<iostream>
+	"fonctions.h"
+
+1512336621 c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\fonctions.h
+	<vector>
+	"Carte.h"
+
+1512336621 source:c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\graphique.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Personne.h"
+
+1512339940 source:c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\graphiqueclasscombat.cpp
+	"allegro.h"
+	"GraphiqueClassCombat.h"
+	"Combat.h"
+	<ctime>
+	<algorithm>
+	"Creature.h"
+	"Graphique.h"
+	<cstdlib>
+
+1512336621 c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\graphiqueclasscombat.h
+	"Personne.h"
+	<queue>
+
+1512336621 c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\combat.h
+
+1512336621 c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\graphique.h
+	<iostream>
+
+1512336621 source:c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\graphiquecombat.cpp
+	<iostream>
+	<vector>
+	"allegro.h"
+	"Combat.h"
+	"Personne.h"
+	"Graphique.h"
+	"Carte.h"
+
+1512341462 source:c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"allegro.h"
+	<cstdio>
+	"Include.h"
+
+1512336621 c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\include.h
+	"Action.h"
+	"Attaque.h"
+	"Carte.h"
+	"Creature.h"
+	"Defense.h"
+	"fonctions.h"
+	"Personne.h"
+	"Special.h"
+	"Terrain.h"
+	"Boutique.h"
+	"Graphique.h"
+	"GraphiqueCombat.h"
+	"GraphiqueClassCombat.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1512336621 c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\graphiquecombat.h
+	<iostream>
+
+1512340515 source:c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\personne.cpp
+	"Personne.h"
+	<fstream>
+	<iostream>
+	"Creature.h"
+	"Boutique.h"
+	<sstream>
+	<string>
+
+1512337639 source:c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\special.cpp
+	"Special.h"
+
+1512336621 source:c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\terrain.cpp
+	"Terrain.h"
+
+1512337588 source:c:\users\matth\desktop\jpp_de_trouver_des_noms\version_allegro_betoulle.ghiassi.leleu\creature.cpp
+	"Creature.h"
+

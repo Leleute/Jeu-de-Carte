@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Projet_Info_ING2_S1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Projet_Info_ING2_S1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add library="alleg44.dll" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Projet_Info_ING2_S1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Action.cpp" />
+		<Unit filename="Action.h" />
+		<Unit filename="Attaque.cpp" />
+		<Unit filename="Attaque.h" />
+		<Unit filename="Boutique.cpp" />
+		<Unit filename="Boutique.h" />
+		<Unit filename="Carte.cpp" />
+		<Unit filename="Carte.h" />
+		<Unit filename="Collection.cpp" />
+		<Unit filename="Collection.h" />
+		<Unit filename="Combat.cpp" />
+		<Unit filename="Combat.h" />
+		<Unit filename="Creature.cpp" />
+		<Unit filename="Creature.h" />
+		<Unit filename="Defense.cpp" />
+		<Unit filename="Defense.h" />
+		<Unit filename="Graphique.cpp" />
+		<Unit filename="Graphique.h" />
+		<Unit filename="GraphiqueClassCombat.cpp" />
+		<Unit filename="GraphiqueClassCombat.h" />
+		<Unit filename="GraphiqueCombat.cpp" />
+		<Unit filename="GraphiqueCombat.h" />
+		<Unit filename="Include.h" />
+		<Unit filename="Personne.cpp" />
+		<Unit filename="Personne.h" />
+		<Unit filename="Special.cpp" />
+		<Unit filename="Special.h" />
+		<Unit filename="Terrain.cpp" />
+		<Unit filename="Terrain.h" />
+		<Unit filename="fonctions.cpp" />
+		<Unit filename="fonctions.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
